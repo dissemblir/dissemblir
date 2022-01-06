@@ -9,7 +9,7 @@
 
 ## ⚡ Fun fact:
 
-🔑 The Feistel cipher is hands down my favorite cipher (or rather cipher "framework")
+🔑 The Feistel cipher is hands down my favorite cipher (or rather cipher "framework")  
 🔐 I also have a lot of interest in AES encryption and the Kerberos protocol
 
 <!--
