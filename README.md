@@ -10,7 +10,7 @@
 ## ⚡ Fun fact:
 
 🔑 The Feistel cipher is hands down my favorite cipher (or rather cipher "framework")  
-🔐 I also have a lot of interest in AES encryption and the Kerberos protocol
+🔐 I also have a lot of interest in AES(Rijndael) encryption and the Kerberos protocol
 
 <!--
 **dissemblir/dissemblir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
