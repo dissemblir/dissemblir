@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 My name is Brandon Klindt and I am a huge fan of the open source community. The public projects I have here are basically just projects I put together at some point to make my life a bit easier. Hopefully some of the projects can be useful to you as well📖
+
+### 📫 How to reach me:
+
+[](https://img.shields.io/static/v1?label=LINKEDIN&message=Brandon%20Klindt&color=0A66C2&labelColor=0A66C2&style=for-the-badge&logo=Linkedin)
+
 <!--
 **dissemblir/dissemblir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
