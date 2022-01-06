@@ -4,7 +4,7 @@
 
 ## 📫 How to reach me:
 
-[![Linkedin](https://img.shields.io/static/v1?label=LINKEDIN&message=Brandon%20Klindt&color=0A66C2&labelColor=0A66C2&style=for-the-badge&logo=Linkedin)](www.linkedin.com/in/dissemblir)
+[![Linkedin](https://img.shields.io/static/v1?label=LINKEDIN&message=Brandon%20Klindt&color=0A66C2&labelColor=0A66C2&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/dissemblir)
 
 <!--
 **dissemblir/dissemblir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
