@@ -1,11 +1,5 @@
 <p align="center">
-<a href="https://dissemblir.dev"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2500&pause=1000&color=7D00FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Security+Enthusiast;IT+Administrator;Always+Learning" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/dissemblir"><img src="https://img.shields.io/badge/LinkedIn-7d00ff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://dissemblir.dev"><img src="https://img.shields.io/badge/dissemblir.dev-26004e?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-<a href="https://twitter.com/dissemblir"><img src="https://img.shields.io/badge/Twitter-7d00ff?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://dissemblir.dev"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=200&color=1354EB&center=true&vCenter=true&width=435&lines=dissemblir;Backend;Systems;Tooling" alt="Typing SVG" /></a>
 </p>
 
 ## Hi there 👋
@@ -14,5 +8,16 @@
 
 ## ⚡ Fun fact:
 
-🔑 The Feistel cipher is hands down my favorite cipher (or rather cipher "framework")  
-🔐 I also have a lot of interest in AES(Rijndael) encryption and the Kerberos protocol
+🔑 The Feistel cipher is hands down my favorite cipher (or rather cipher "framework").<br>
+🔐 I also have a lot of interest in AES(Rijndael) encryption and well encryption in general.
+
+## 📋Current Projects
+
+### Professional Projects
+- SAP B1 TypeGen (Type generator for a specific language from metadata.xml) in C#
+- Tally Prime to SAP B1 Data Extraction (exporting Tally Prime XML data to CSV friendly format) in C#
+- SAP B1 Web App via the Service Layer for advanced SAP Tooling (and to improve user experience) in Typescript - Nextjs
+
+### Fun "Free-Time" Projects (Will release source)
+- Elden Ring Save Editor GUI (Save Game Copy / Editor Tool) in C# and Rust
+- Getting to grips with Machine Learning in C# (exploring it in Rust as well)
